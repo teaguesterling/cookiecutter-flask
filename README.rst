@@ -5,6 +5,11 @@ A Flask template for cookiecutter_.
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 
+.. image:: https://travis-ci.org/sloria/cookiecutter-flask.svg
+    :target: https://travis-ci.org/sloria/cookiecutter-flask
+    :alt: Build Status
+
+
 Use it now
 ----------
 ::
@@ -64,6 +69,12 @@ BSD licensed.
 
 Changelog
 ---------
+
+0.6.0 (12/01/2014)
+******************
+
+- Test the cookiecutter on Travis. Thanks @joshfriend.
+- Update stale requirements (Flask-WTF, Flask-Migrate, Flask-DebugToolbar)
 
 0.5.0 (09/29/2014)
 ******************
